@@ -13,7 +13,7 @@ function Partner() {
         <img
           alt=""
           style={{ width: "150px", height: "55px" }}
-          src="https://assets.stickpng.com/images/6298e9eef0502af1ce8d8a1d.png"
+          src="https://www.cpapracticeadvisor.com/wp-content/uploads/sites/2/2022/07/23365/Gusto_Logo_full_berry.5826310d71338.png"
         />
       </div>
       <div className="flex items-center justify-center mb-3 -mt-1.5 text-gray-500 dark:text-gray-400">

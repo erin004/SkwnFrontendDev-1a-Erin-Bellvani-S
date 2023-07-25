@@ -3,11 +3,11 @@ import React from "react";
 function Deals() {
   return (
     <section className="bg-section3 dark:bg-gray-900 text-center">
-      <div className="py-20 px-20 lg:py-16">
-        <p className="sm:text-left mb-6 text-jumbotron2 font-normal text-signup lg:text-xl sm:px-16 lg:px-48 dark:text-gray-400">
+      <div className="py-20 px-20 lg:py-16 text-jumbotron2">
+        <p className="sm:text-left mb-6 text-jumbotron2 font-normal lg:text-xl sm:px-16 lg:px-48 dark:text-gray-400">
           LIMITED DEALS
         </p>
-        <h1 className="mb-8 sm:ml-48 sm:text-left text-4xl font-extrabold text-jumbotron2 leading-none text-signup md:text-5xl lg:text-6xl dark:text-white">
+        <h1 className="mb-8 sm:ml-48 sm:text-left text-4xl font-extrabold text-jumbotron2 leading-none md:text-5xl lg:text-6xl dark:text-white">
           Become a member and get 10% off of your first purchase
         </h1>
 
